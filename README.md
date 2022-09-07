@@ -26,7 +26,7 @@ bc476304738fb948cec05a5d17d0fe6f996e7ec0b4a8e2853e41d6657f3f41e33
 ```
 
 [Official Channel](https://t.me/amori_cracker_channel)
-```
+
 [Buy activation key](https://t.me/Amori_Cracker_Bot)
 
 # Disclaimer
