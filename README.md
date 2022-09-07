@@ -9,10 +9,11 @@ Automated Bitcoin wallet generator. With mnemonic and passphrases bruteforces wa
 
 # How to use
 ```
-1. Specify the number of mnemonic words (we recommend 12)
-2. Select the "dictionary.txt" file for the "Password file field"
-3. Press "Start button"
-4. Address with balance is saved in txt file "win.txt"
+1. Run "bc.exe"
+2. Specify the number of mnemonic words (we recommend 12)
+3. Select the "dictionary.txt" file for the "Password file field"
+4. Press "Start button"
+5. Address with balance is saved in txt file "win.txt"
 ```
 
 ### Example
